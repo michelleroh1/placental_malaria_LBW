@@ -21,4 +21,4 @@ For any additional questions, please reach out to Michelle Roh (rohmi@ohsu.edu).
        b. In R:
            <pre> ```install.packages(c('openxlsx', 'readstata13', 'dplyr', 'tidyr', 'ggplot2’, ’tibble’, ‘purrr’, ‘boot’, ‘Evalue’, ‘logistf’))``` </pre>   
   3. In each Stata do-file or R script and update the project path directory under “User inputs”.
-  4. Code is numbered numerically. You must run Stata do-files (1-3) to generate the full analytic database prior to running analyses.
+  4. Code is numbered sequentially. You must run Stata do-files (1-3) to generate the full analytic database prior to running analyses.
